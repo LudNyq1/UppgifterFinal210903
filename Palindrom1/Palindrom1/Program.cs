@@ -6,6 +6,7 @@ namespace Palindrom1
     {
         static void Main(string[] args)
         {
+            //HEEEEEEEEEEEEEEEEEEEEEEEj
             Console.WriteLine("Skriv in ett sk. palinrom (försök iallfall):");
             string palindromHel = Console.ReadLine();
             char[] palindromDelat = palindromHel.ToCharArray();
